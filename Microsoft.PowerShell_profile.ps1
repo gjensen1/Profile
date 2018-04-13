@@ -8,6 +8,6 @@ $size = $Shell.BufferSize
 $size.width=120
 $size.height=5000
 $Shell.BufferSize = $size
-$Shell.WindowTitle=”Graham's PowerShell”
+$Shell.WindowTitle='Graham''s PowerShell'
 #$shell.BackgroundColor = “Blue”
 $shell.ForegroundColor = “Green”
